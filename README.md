@@ -11,4 +11,3 @@ Using a phone to control common household electrical appliances like lights, fan
 
 * The functioning of porch lights can also be automated using LDR sensors.
 
-* When the presence of someone is detected at the front door, the video being captured by the camera is streamed to the user, and if this person already exists in the database, a facial detection algorithm is run and the identity of the person is determined, and this too is sent to the user.
